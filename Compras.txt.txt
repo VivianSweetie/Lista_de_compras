@@ -3,3 +3,5 @@ arroz
 chocolate
 farinha
 ovo
+parmonha
+oregano
